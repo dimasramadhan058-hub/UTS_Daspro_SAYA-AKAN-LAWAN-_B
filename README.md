@@ -2,7 +2,7 @@
 
 QSC-Quiz Science Computer.
 
-KuisKom adalah program kuis sederhana berbasis Pascal yang menguji pengetahuan dasar tentang komputer melalui lima pertanyaan pilihan ganda.
+Quiz Science Computer adalah program kuis sederhana berbasis Pascal yang menguji pengetahuan dasar tentang komputer melalui lima pertanyaan pilihan ganda.
 
 Anggota Kelompok
 1. Nama: Naila Rahmi Kusuma. | NIM: 261401083. | KOM: B. | Lab: 4.
