@@ -1,6 +1,6 @@
 # UTS_Daspro_SAYA-AKAN-LAWAN-_B
 
-KuisKom — Kuis Pengetahuan Komputer
+QSC-Quiz Science Computer.
 
 KuisKom adalah program kuis sederhana berbasis Pascal yang menguji pengetahuan dasar tentang komputer melalui lima pertanyaan pilihan ganda.
 
